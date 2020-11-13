@@ -24,9 +24,9 @@
     "node": ">=10.13.0"
   },
   "scripts": {
+    "lint:eslint": "eslint .",
     "release": "semantic-release",
-    "test:lint": "eslint .",
-    "test:lint:fix": "eslint . --fix"
+    "test:lint": "eslint ."
   },
   "devDependencies": {
     "eslint-config-archetype": "4.0.0",
