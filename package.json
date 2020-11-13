@@ -1,0 +1,36 @@
+{
+  "name": "prettier-config-archetype",
+  "version": "1.0.0-alpha.0",
+  "author": "Kenneth Martin <developer@kennethmartin.me>",
+  "description": "Javascript with opinions",
+  "license": "MIT",
+  "main": "index.js",
+  "homepage": "https://github.com/kennethlmartin/prettier-config-archetype",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kennethlmartin/prettier-config-archetype.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kennethlmartin/prettier-config-archetype/issues"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "prettierconfig",
+    "javascript",
+    "styleguide"
+  ],
+  "engines": {
+    "node": ">=10.13.0"
+  },
+  "scripts": {
+    "test:lint": "eslint .",
+    "test:lint:fix": "eslint . --fix"
+  },
+  "devDependencies": {
+    "eslint-config-archetype": "4.0.0"
+  },
+  "dependencies": {
+    "prettier": "2.1.2"
+  }
+}
