@@ -6,4 +6,6 @@
 .eslintignore
 .eslintrc.js
 .gitignore
+.releaserc.js
+.github/
 node_modules/
