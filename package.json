@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-archetype",
-  "version": "1.0.0-alpha.0",
+  "version": "0.0.0-development",
   "author": "Kenneth Martin <developer@kennethmartin.me>",
   "description": "Javascript with opinions",
   "license": "MIT",
@@ -24,11 +24,13 @@
     "node": ">=10.13.0"
   },
   "scripts": {
+    "release": "semantic-release",
     "test:lint": "eslint .",
     "test:lint:fix": "eslint . --fix"
   },
   "devDependencies": {
-    "eslint-config-archetype": "4.0.0"
+    "eslint-config-archetype": "4.0.0",
+    "semantic-release": "17.2.2"
   },
   "dependencies": {
     "prettier": "2.1.2"
