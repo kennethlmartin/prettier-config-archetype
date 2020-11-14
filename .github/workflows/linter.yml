@@ -3,11 +3,11 @@ on: pull_request
 
 jobs:
   eslint:
-    name: eslint
+    name: ESLint
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: eslint
+      - name: Run eslint
         uses: reviewdog/action-eslint@v1
         with:
           reporter: github-pr-review
