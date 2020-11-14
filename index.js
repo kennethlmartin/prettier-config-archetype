@@ -1,5 +1,3 @@
-error;
-
 module.exports = {
   // https://prettier.io/docs/en/options.html#arrow-function-parentheses
   arrowParens: 'always',
