@@ -5,14 +5,8 @@
 </div>
 
 <br />
-
-<div align="center">
-
-  [![npm](https://img.shields.io/npm/v/prettier-config-archetype.svg?style=for-the-badge)](https://www.npmjs.com/package/prettier-config-archetype)
-  [![David](https://img.shields.io/david/kennethlmartin/prettier-config-archetype.svg?style=for-the-badge)](https://david-dm.org/kennethlmartin/prettier-config-archetype)
-</div>
-
-***
+<br />
+<br />
 
 ## Installation
 
