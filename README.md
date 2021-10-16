@@ -1,11 +1,11 @@
+<br />
+
 <div align="center">
   <a href="https://prettier.io/">
-    <img src="https://i.ibb.co/qJWgLwX/prettier-config-archetype.png" width="400" />
+    <img src="https://i.ibb.co/YPBz7Zv/prettier-config-archetype.png" width="400" />
   </a>
 </div>
 
-<br />
-<br />
 <br />
 
 ## Installation
