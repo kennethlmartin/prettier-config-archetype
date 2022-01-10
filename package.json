@@ -2,7 +2,7 @@
   "name": "prettier-config-archetype",
   "version": "0.0.0-development",
   "author": "Kenneth Martin <developer@kennethmartin.me>",
-  "description": "Javascript with opinions",
+  "description": "Opinionated code formatting",
   "license": "MIT",
   "main": "index.js",
   "homepage": "https://github.com/kennethlmartin/prettier-config-archetype",
